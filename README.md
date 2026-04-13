@@ -38,12 +38,12 @@ The goal is to evaluate how liquidity, credit exposure, and repayment patterns i
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](dashboard_preview.png)
 
 ---
 
 ## 🔍 Tooltip Preview
-![Tooltip](images/tooltip_preview.png)
+![Tooltip](tooltip_preview.png)
 
 ---
 
