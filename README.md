@@ -1,7 +1,7 @@
 # 💳 Credit Risk Analysis & Risk Segmentation Dashboard
 
-> **End-to-end data analyst project** — Python EDA · Power BI  
-> Dataset: [German Credit Risk (UCI)](https://www.kaggle.com/datasets/uciml/german-credit) — 1,000 customers · Credit behavior & delinquency analysis
+> **End-to-end data analyst project** - Python EDA · Power BI  
+> Dataset: [German Credit Risk (UCI)](https://www.kaggle.com/datasets/uciml/german-credit) - 1,000 customers · Credit behavior & delinquency analysis
 
 ---
 
@@ -83,11 +83,11 @@ credit-risk-analysis-dashboard/
 
 ## 🔄 Project Workflow
 
-1. **Data Cleaning & Preprocessing** — Python (pandas, NumPy) · handled missing values, encoded categoricals
-2. **Exploratory Data Analysis** — distribution analysis, correlation heatmap, feature-by-feature risk profiling
-3. **Feature Understanding & Pattern Identification** — ranked drivers of default risk
-4. **Dashboard Development** — Power BI with interactive slicers, tooltips, and risk segments
-5. **Insight Generation & Risk Segmentation** — High / Medium / Low classification
+1. **Data Cleaning & Preprocessing** - Python (pandas, NumPy) · handled missing values, encoded categoricals
+2. **Exploratory Data Analysis** - distribution analysis, correlation heatmap, feature-by-feature risk profiling
+3. **Feature Understanding & Pattern Identification** - ranked drivers of default risk
+4. **Dashboard Development** - Power BI with interactive slicers, tooltips, and risk segments
+5. **Insight Generation & Risk Segmentation** - High / Medium / Low classification
 
 ---
 
@@ -102,11 +102,11 @@ credit-risk-analysis-dashboard/
 
 ## 💡 Business Recommendations
 
-1. **Flag low-liquidity applicants early** — customers with no or minimal checking/savings balance should trigger automatic risk review before loan approval
-2. **Cap high-duration loans for borderline applicants** — loan duration is a strong delinquency signal; shorter repayment windows reduce portfolio exposure
-3. **Introduce tiered credit limits** — high loan amounts combined with low reserves represent the highest-risk profile; limit initial credit for this segment
-4. **Build proactive monitoring for High Risk customers** — intervene before default with restructuring offers or repayment plans
-5. **Deprioritize demographic-only scoring** — financial behavior indicators outperform age and housing in predicting default; shift model weight accordingly
+1. **Flag low-liquidity applicants early** - customers with no or minimal checking/savings balance should trigger automatic risk review before loan approval
+2. **Cap high-duration loans for borderline applicants** - loan duration is a strong delinquency signal; shorter repayment windows reduce portfolio exposure
+3. **Introduce tiered credit limits** - high loan amounts combined with low reserves represent the highest-risk profile; limit initial credit for this segment
+4. **Build proactive monitoring for High Risk customers** - intervene before default with restructuring offers or repayment plans
+5. **Deprioritize demographic-only scoring** - financial behavior indicators outperform age and housing in predicting default; shift model weight accordingly
 
 ---
 
@@ -118,7 +118,7 @@ git clone https://github.com/Abhisonne/credit-risk-analysis-dashboard.git
 
 # 2. Run the EDA notebook
 #    Open credit_risk_analysis_EDA.ipynb in Jupyter or Google Colab
-#    The cleaned dataset (credit_data_cleaned.csv) is included — no download needed
+#    The cleaned dataset (credit_data_cleaned.csv) is included - no download needed
 
 # 3. Explore the dashboard
 #    Open Credit Risk Analysis Dashboard.pbix in Power BI Desktop
@@ -136,6 +136,6 @@ git clone https://github.com/Abhisonne/credit-risk-analysis-dashboard.git
 
 ## 📬 Connect
 
-**Abhinandan Sonne** — Data Analyst | Python · Power BI · Excel  
+**Abhinandan Sonne** - Data Analyst | Python · Power BI · Excel  
 [LinkedIn](https://www.linkedin.com/in/abhinandan-sonne-b979431a4) · [GitHub](https://github.com/Abhisonne)
 
